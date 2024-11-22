@@ -73,8 +73,8 @@ plugins:
   - search
 
 nav:
-    - 'index.md'
-    - '网络流md.md'
+    - 搭建GitPage :'index.md'
+    - 网络流: '网络流md.md'
 #   - 基于 Material for MkDocs 搭建静态网页: 
 #       - 介绍: 介绍.md
 #       - 安装 Mkdocs && Material: 安装 Mkdocs && Material.md
